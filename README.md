@@ -1,10 +1,16 @@
 👋 Hi! I’m Gianmarco <br>
 
-:sparkles: Aiming at:   building better humans <br>
+:sparkles: Aiming at: mixing together brains, math, and steel <br>
 
-🌱Currently deep diving into: organic brains, artificial brains, robotics... Mixed together!
+🌱Currently learning: DJANGO framework, Flutter, APIs in general
 
-How to reach me: 
+## What you'll find here:
+- cool AI projects for DIY nerds
+- Deep learning didactic experiments
+- Bio-engineering topics / open source datasets
+- broccoli :broccoli:
+
+## How to reach me: 
 
 :link: https://www.linkedin.com/in/gianmarco-guarnier
 
