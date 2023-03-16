@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/49094051/225431851-07402a53-38bc-4bd5-96fa-95f99674ae60.png" />
 </p>
 
-:sparkles: Aiming at: mixing together brains, math and steel <br>
+:sparkles: Aiming at: blend together brains, math and silicon <br>
 
 🌱 Currently learning: DJANGO framework, Flutter-Dart, APIs
 
