@@ -1,5 +1,5 @@
 <h1 align ="center"> 
-  👋 Hi! I’m Gianmarco <br>
+  👋 hi! I’m Gianmarco <br>
 </h1> 
 <p align="center">
   currently studying @Unipd Bioengineering for Neurosciences <br><br>
@@ -21,7 +21,7 @@
 - Cool AI projects for DIY nerds
 - Deep learning experiments / notebooks guides
 - Bio-engineering topics / open source datasets
-- broccoli :broccoli:
+- Broccoli :broccoli:
 
 ## my arsenal
 <p align="center">
